@@ -24,15 +24,19 @@ Lms is a web application that exactly builds for college and university base lib
 ![image](https://github.com/SumitKumargiri/Digital_library_managment_system/assets/96234273/38f76e8d-3c4d-4aba-9e78-cc5779a4be2c)
 
 #Teacher register page
+
 ![image](https://github.com/SumitKumargiri/Digital_library_managment_system/assets/96234273/2073d242-79f6-4445-9737-42cd81e15e62)
 
 #Student Login page
+
 ![image](https://github.com/SumitKumargiri/Digital_library_managment_system/assets/96234273/3c3af07d-2bd9-4150-9201-bb25da812d38)
 
 #reset password page
+
 ![image](https://github.com/SumitKumargiri/Digital_library_managment_system/assets/96234273/784ced51-1ff1-44d5-8ab1-cfb7a65d5be1)
 
 #contact page
+
 ![image](https://github.com/SumitKumargiri/Digital_library_managment_system/assets/96234273/973c7b1c-3afa-452d-a618-0bb302d6bae1)
 
 A Digital Library Management System is a web application designed to manage and organize digital resources, such as e-books, documents, videos, and other multimedia content, in a user-friendly manner. This system allows users to search, browse, and access digital content easily. Here's a basic overview of how you could create a simple Digital Library Management System using HTML, CSS, JavaScript, and PHP:
@@ -55,6 +59,7 @@ Website: https://developer.mozilla.org/
 Codecademy: Offers interactive coding lessons on various web development topics.
 
 Website: https://www.codecademy.com/
+
 PHP Resources:
 
 PHP.net: The official PHP documentation offers tutorials, examples, and explanations.
